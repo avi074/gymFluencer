@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#root{
+  @apply flex flex-col gap-2 w-screen min-h-screen;
+}
