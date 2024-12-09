@@ -2,7 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+.hero-section {
+  background-image: url('/images/HomeBg.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  overflow: hidden;
+}
 
-#root{
-  @apply flex flex-col gap-2 w-screen min-h-screen;
+@keyframes fadeInUp{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
 }
