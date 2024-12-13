@@ -1,4 +1,4 @@
-# [ShoppyGlobe - E-Commerce App]()
+# [GymFluencer]()
 
 It's a responsive frontend designed on [GymFluencer](https://gym.birlaventures.com/). 
 
